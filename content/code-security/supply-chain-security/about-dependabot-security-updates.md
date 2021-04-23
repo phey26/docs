@@ -7,7 +7,7 @@ redirect_from:
   - /github/managing-security-vulnerabilities/about-dependabot-security-updates
 versions:
   free-pro-team: '*'
-topics:
+topics:onlineges
   - security
 ---
 <!--Marketing-LINK: From /features/security/software-supply-chain page "About Dependabot security updates".-->
